@@ -1,0 +1,5 @@
+{
+  "name": "Battleground Arena",
+  "description": "A real-time multiplayer battle royale game with Duo and Squad modes.",
+  "requestFramePermissions": []
+}
